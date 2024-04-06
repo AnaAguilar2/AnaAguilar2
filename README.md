@@ -6,5 +6,5 @@ You can find me on:
 
 🤝[LinkedIn](https://www.linkedin.com/in/ana-aguilar-v-7378a1203/)
 
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m QA Tester jr
 
